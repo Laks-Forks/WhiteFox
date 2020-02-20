@@ -12,6 +12,12 @@ h1{
     font-size: 3rem;
 }
 
+hr {
+    border-color: red;
+    border-width: 3px;
+    max-width: 65px;
+}
+
 /*class*/
 .btn {
     font-weight: 700;
