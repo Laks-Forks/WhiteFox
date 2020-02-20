@@ -25,7 +25,9 @@ hr {
     text-transform: uppercase;
 }
 
-
+.buffer {
+    height: 10rem;
+}
 
 
 .btn-xl {
